@@ -1,7 +1,20 @@
 ADS_COVID19
 ==============================
 
-covid data
+The libraries required for running the code are:
+
+dash
+dash core components
+dash html components
+numpy
+plotly
+matplotlib
+pandas
+scipy
+
+
+The python script required to view the graph is present in : src/visualization/visualize.py
+
 
 Project Organization
 ------------
